@@ -1,6 +1,6 @@
 # MyFitnessPal Ads Metrics Dashboard
 
-![MyFitnessPal Ads Metrics Dashboard](link_to_dashboard_image)
+![MyFitnessPal Ads Metrics Dashboard](https://github.com/joaovictorgribeiro/MyFitnessPal_LookerStudio/blob/main/MyFitnessPal%20Dashboard.png)
 
 This project includes an interactive dashboard built in Looker Studio to analyze the advertising metrics for the *MyFitnessPal* app. The dashboard provides detailed insights into the performance of ad campaigns, breaking down data such as impressions, clicks, conversions, and more.
 
